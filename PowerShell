@@ -1,0 +1,17 @@
+## La liste des commandes unix et leur équivalent
+
+* cp : Copy
+* rm : Remove
+* cd : Get
+* mkdir : New
+* man : Get-Command
+* history : Get-History
+* alias : Get-Alias
+* cat : Show-Command
+
+## Les commandes PowerShell utilisées pour mes recherches
+
+"Get-" m'a permis d'ouvrir la liste des cmd Powershell puis j'écrivais la 1ère lettre de la cmd Linux pour trouver la commande similaire de PowerShell.
+"Get-Alias" m'a beaucoup aidé.
+
+
